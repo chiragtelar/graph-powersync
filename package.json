@@ -1,0 +1,1 @@
+{\n  "name": "graph-powersync",\n  "version": "1.0.0",\n  "description": "A project for synchronizing graph data.",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'No tests specified' && exit 0"\n  },\n  "repository": {\n    "type": "git",\n    "url": "https://github.com/chiragtelar/graph-powersync.git"\n  },\n  "author": "chiragtelar",\n  "license": "MIT"\n}
